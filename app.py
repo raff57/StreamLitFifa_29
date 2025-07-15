@@ -1,4 +1,4 @@
-import StreamLitFifa_29.eda as eda, StreamLitFifa_29.prediction as prediction
+import eda as eda, prediction 
 import streamlit as st
 
 with st.sidebar:
