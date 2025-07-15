@@ -1,0 +1,10 @@
+python == 
+streamlit
+scikit-learn == 1.5.1
+pandas
+numpy
+feature-engine == 
+matplotlib
+seaborn
+plotly
+pillow
